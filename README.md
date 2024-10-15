@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #d3572c;">Hi 👋, I'm Huỳnh Đức</h1>
+<h1 align="center" style="color: #d3572c;">Hello 👋, I'm Huỳnh Đức</h1>
 <h3 align="center" style="color: #d3572c;">A Passionate Full-Stack Developer from Vietnam</h3>
 
 <p align="center"> 
