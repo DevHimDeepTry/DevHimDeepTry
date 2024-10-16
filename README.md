@@ -12,9 +12,9 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Kubernetes** and **Cloud Infrastructure**
+- 🌱 I’m currently studying **Software Engineer at [Passerlles numériques Việt Nam (PNV)](https://www.passerellesnumeriques.org/vi/cac-trung-tam/vietnam/)**
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
-- 🤝 I’m seeking mentorship or guidance in **DevOps and Scaling Applications**
+- 🤝 I’m seeking mentorship or guidance in **Full-stack, DevOps and Scaling Applications**
 - 👨‍💻 Explore my projects on [GitHub](https://github.com/DevHimDeepTry)
 - 📝 I regularly post technical insights on [My Blog](#)
 - 💬 Ask me about **Full-Stack Development, Docker, DevOps**
